@@ -1,0 +1,23 @@
+{
+  "name": "ptero-interactions",
+  "version": "1.0.0",
+  "description": "An example of interactions with the Pterodactyl panel.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesleyGames001/ptero-interactions.git"
+  },
+  "author": "WesleyGames001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WesleyGames001/ptero-interactions/issues"
+  },
+  "homepage": "https://github.com/WesleyGames001/ptero-interactions#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ws": "^7.5.3"
+  }
+}
